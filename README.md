@@ -2,7 +2,7 @@
 
 <div align="center" width="50">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Welcome!" width="300"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Welcome!" width="600"/>
 
 </div>
 
